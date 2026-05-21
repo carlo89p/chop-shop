@@ -12,12 +12,11 @@ A REST API for a mechanic shop built with Flask and MySQL. Handles customers, me
 
 ## Setup
 
-1. Clone the repo
-2. Create and activate a virtual environment: python -m venv venv then venv\Scripts\activate
-3. Install dependencies: pip install -r requirements.txt
-4. Create a .env file in the root: SQLALCHEMY_DATABASE_URI=mysql+mysqlconnector://root:yourpassword@localhost/chop_shop
-5. Create the chop_shop database in MySQL
-6. Run it: python app.py
+1. Create and activate a virtual environment: python -m venv venv then venv\Scripts\activate
+2. Install dependencies: pip install -r requirements.txt
+3. Create a .env file in the root: SQLALCHEMY_DATABASE_URI=mysql+mysqlconnector://root:yourpassword@localhost/chop_shop
+4. Create the chop_shop database in MySQL
+5. Run it
 
 ## Status Codes
 
